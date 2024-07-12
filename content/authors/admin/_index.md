@@ -105,75 +105,51 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R Scientific Programming
         description: ''
-        percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Jags Bayesian Modelling
         description: ''
-        percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Analytical Isotope Geochemistry
         description: ''
-        percent: 40
-        icon: circle-stack
+        icon: atom-solid
+      - name: Lipid Biomarker Analysis
+        description: 'Extraction, characterization (GC-MS), and stable isotope analyses of plant wax biomarkers in archaeological sediments'
+        icon: flask-vial-solid
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Rock climbing
+        description: ''
+        icon: mountain-solid
       - name: Hiking
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: person-hiking-solid
+      - name: Suneaons & Dragons
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: dice-d20-solid
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 100
+  - name: Spanish
+    percent: 50
+  - name: French
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a palaeoclimate scientist and palaeolithic archaeologist interested in improving the reconstruction of past climate changes and their impacts on human evolutionary processes. In this work I use computational (proxy system modelling), geochemical (stable isotopes) and biomolecular (lipid biomarker) methods. I am currently a postdoctoral researcher at the Department of Geology & Geophysics, University of Utah where I develop a karst proxy system model in the StalFire project investigating hydroclimate change and wildfire histories in Early Holocene and Late Pleistocene California. 
+
+In previous and ongoing work I apply stable isotope and biomarker analyes to archaeological large mammal remains and sediments to explore how climate change shaped the range expansion of Homo sapiens across the globe and the concurrent disappearance of other hominins such as Neanderthals. 
