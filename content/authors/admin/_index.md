@@ -127,7 +127,7 @@ skills:
       - name: Hiking
         description: ''
         icon: person-hiking-solid
-      - name: Suneaons & Dragons
+      - name: Dungeons & Dragons
         description: ''
         icon: dice-d20-solid
 
