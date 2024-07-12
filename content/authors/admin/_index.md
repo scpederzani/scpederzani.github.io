@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Sarah Pederzani
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sarah
+last_name: Pederzani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,85 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Utah
+    url: https://wateriso.utah.edu/spatial/#people
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
     label: E-mail Me
+    url: mailto:sarah.pederzani@utah.edu
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/pederzani_sarah
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/scpederzani
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=ePTf7gEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0001-5205-8974
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - past climate changes
+  - Late Pleistocene human evolution
+  - proxy system modelling
+  - stable isotope geochemistry
+  - lipid biomarker analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD Archaeology
+    date_end: "2021-07-07"
+    date_start: "2016-10-01"
+    institution: Max-Planck-Institute for Evolutionary Anthropology, Germany & University of Aberdeen, UK
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MA Prehistoric and Historic Archaeology
+    date_end: "2016-09-12"
+    date_start: "2014-10-01"
+    institution: Christian-Albrechts-University Kiel, Germany
+
+  - area: BSc Prehistoric and Historic Archaeology (major) & Chemistry (minor)
+    date_end: "2010-10-01"
+    date_start: "2014-12-02"
+    institution: Christian-Albrechts-University Kiel, Germany
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- company_logo: ""
+  company_name: Department of Geology & Geophysics, University of Utah, USA
+  company_url: ""
+  date_end: ""
+  date_start: "2024-01-01"
+  position: Postdoctoral Researcher
+  summary: |-
+    Responsibilities include:
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- company_logo: ""
+  company_name: IUBO-AG, Universidad de La Laguna, Tenerife, Spain
+  company_url: ""
+  date_end: "2023-12-31"
+  date_start: "2022-02-01"
+  position: Leopoldina Postdoctoral Fellow
+  summary: |
+    Responsibilities include:
+    - Migrated infrastructure to a new data center
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- company_logo: ""
+  company_name: Department of Human Evolution, Max-Planck-Institute for Evolutionary Anthropology, Germany
+  company_url: ""
+  date_end: "2021-11-30"
+  date_start: "2020-10-01"
+  position: Postdoctoral Researcher
+  summary: |
+    Responsibilities include:
+    - Migrated infrastructure to a new data center
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
