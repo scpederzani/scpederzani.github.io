@@ -38,6 +38,9 @@ sections:
         In my research I explore how Pleistocene humans responded to climate change and seek to improve how we generate palaeoclimatic data for the archaeological record using stable isotope and biomarker methods. I began working with stable isotope proxies of past ecologies and environments during my BSc (2014) and MA (2016), which I completed at the University of Kiel, Germany. I then moved to the Max-Planck-Institute for Evolutionary Anthropology in Leipzig, Germany, where I used multi-stable isotope analyses of faunal remains to explore the climatic drivers of *Homo sapiens* dispersals and Neanderthal ecology during the Late Pleistocene as part of my PhD (2016-2020) and a 1-year follow-up postdoc. During a 2-year postdoctoral fellowship (2022-2024) at the University of La Laguna, Tenerife, Spain, I expanded my work into lipid biomarker analysis and developed multi-proxy approaches to better characterize climate-driven site occupation patterns of Late Pleistocene humans. I recently joined the SPATIAL group at the University of Utah as a member of the StalFire project, where I am building a speleothem proxy system model for stable isotope, trace element, and biomarker proxies of palaeoclimate and wildfire history. 
     design:
       columns: '1'
+      css_class: dark
+      background:
+        color: #35A585
   - block: collection
     content:
       title: Recent Publications
