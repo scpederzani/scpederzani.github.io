@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        In my research I explore how Pleistocene humans responded to climate change and seek to improve how we generate palaeoclimatic data for the archaeological record using stable isotope and biomarker methods. 
+I began working with stable isotope proxies of past ecologies and environments during my BSc (2014) and MA (2016), which I completed at the University of Kiel, Germany. I then moved to the Max-Planck-Institute for Evolutionary Anthropology in Leipzig, Germany, where I used multi-stable isotope analyses of faunal remains to explore the climatic drivers of *Homo sapiens* dispersals and Neanderthal ecology during the Late Pleistocene as part of my PhD (2016-2020) and a 1-year follow-up postdoc. 
+During a 2-year postdoctoral fellowship (2022-2024) at the University of La Laguna, Tenerife, Spain, I expanded my work into lipid biomarker analysis and developed multi-proxy approaches to better characterize climate-driven site occupation patterns of Late Pleistocene humans. 
+I recently joined the SPATIAL group at the University of Utah as a member of the StalFire project, where I am building a speleothem proxy system model for stable isotope, trace element, and biomarker proxies of palaeoclimate and wildfire history.  
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
@@ -53,34 +53,16 @@ sections:
     design:
       view: citation
   - block: collection
-    id: news
+    id: papers
     content:
       title: Ongoing Projects
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
       filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+        folders:
+          - publication
+        featured_only: true
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: article-grid
+      columns: 2
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
