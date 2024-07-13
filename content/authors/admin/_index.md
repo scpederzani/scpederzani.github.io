@@ -73,10 +73,9 @@ work:
   date_start: "2024-01-01"
   position: Postdoctoral Researcher
   summary: |-
-    Responsibilities include:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - StalFire project exploring joint hydroclimate and wildfire histories in California
+    - Bayesian proxy system modeling of karst systems and stalagmite archives
+    - implementing multi-proxy quantitative climate and fire reconstruction
 - company_logo: ""
   company_name: IUBO-AG, Universidad de La Laguna, Tenerife, Spain
   company_url: ""
@@ -84,7 +83,6 @@ work:
   date_start: "2022-02-01"
   position: Leopoldina Postdoctoral Fellow
   summary: |
-    Responsibilities include:
     - Migrated infrastructure to a new data center
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -95,7 +93,6 @@ work:
   date_start: "2020-10-01"
   position: Postdoctoral Researcher
   summary: |
-    Responsibilities include:
     - Migrated infrastructure to a new data center
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -106,30 +103,17 @@ skills:
   - name: Technical Skills
     items:
       - name: R Scientific Programming
-        description: ''
+        description: '10 years of experience with R coding'
         icon: code-bracket
       - name: Jags Bayesian Modelling
-        description: ''
+        description: 'proxy system modelling, hierarchical forward models, joint Bayesian inversion '
         icon: chart-bar
       - name: Analytical Isotope Geochemistry
-        description: ''
+        description: '8 years experience with IRMS use and maintenance, Ophos, Ocarb, C, N, S, Sr isotope preparation of bioapatite, bone collagen, plants'
         icon: atom-solid
       - name: Lipid Biomarker Analysis
         description: 'Extraction, characterization (GC-MS), and stable isotope analyses of plant wax biomarkers in archaeological sediments'
         icon: flask-vial-solid
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Rock climbing
-        description: ''
-        icon: mountain-solid
-      - name: Hiking
-        description: ''
-        icon: person-hiking-solid
-      - name: Dungeons & Dragons
-        description: ''
-        icon: dice-d20-solid
 
 languages:
   - name: English
@@ -141,10 +125,32 @@ languages:
   - name: French
     percent: 20
 
-# Awards.
+# Awards and Funding
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
+awards:
+  - title: Irene Levi-Sala CARE Archaeological Foundation Research Grant
+    date: "2024-05-01"
+    awarder: Irene Levi-Sala CARE Archaeological Foundation
+    icon: 
+    summary: |
+     “Site-specific hydroclimatic and palaeoenvironmental markers at B60, an Upper Paleolithic site in the lower Besor Basin” (5,000 $). Co-PI with Mae Goder-Goldberger
+  - title: German Academy of Sciences Leopoldina Postdoctoral Fellowship
+    date_end: "2023-12-31"
+    date_start: "2022-02-01"
+    awarder: German Academy of Sciences Leopoldina
+    icon: leopoldina
+    summary: |
+      "Developing a multi-proxy stable isotope approach to demonstrating the climatic preferences of site-use of Late Pleistocene humans" (77,000 $)
+  - title: German National Academic Foundation scholarship
+    date_end: "2011"
+    date_start: "2016"
+    awarder: German National Academic Foundation (Studienstiftung des Deutschen Volkes)
+    icon: 
+    summary: |
+      Undergraduate and Masters scholarship (20,000 $)
 
 ---
 
