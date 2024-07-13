@@ -40,7 +40,7 @@ sections:
       columns: '1'
       css_class: dark
       background:
-        color: #35A585
+        color: emerald
   - block: collection
     content:
       title: Recent Publications
