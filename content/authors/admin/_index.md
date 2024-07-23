@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0001-5205-8974
 
 interests:
-  - past climate changes
-  - Late Pleistocene human evolution
-  - proxy system modelling
+  - climate change, wildfires, and anthropogenic fires in the past and present
+  - The evolution of human climate resilience
+  - Bayesian proxy system modelling
   - stable isotope geochemistry
   - lipid biomarker analysis
 
@@ -75,7 +75,8 @@ work:
   summary: |-
     - StalFire project exploring joint hydroclimate and wildfire histories in California
     - Bayesian proxy system modeling of karst systems and stalagmite archives
-    - implementing multi-proxy quantitative climate and fire reconstruction
+    - multi-proxy quantitative climate and fire reconstruction
+    - 
 - company_logo: ""
   company_name: IUBO-AG, Universidad de La Laguna, Tenerife, Spain
   company_url: ""
