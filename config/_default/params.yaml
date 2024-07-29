@@ -11,7 +11,6 @@ appearance:
 # SEO
 marketing:
   seo:
-    title: 'Sarah Pederzani'
     site_type: Person
     local_business_type: ''
     org_name: ''
@@ -24,8 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google:
-        SiteVerificationTag: '-4-mvSroMvJE-UVBYpr3bjG-BPYTaXp7An_qqLzXWWc'
+    google: ''
     baidu: ''
 
 # Site header
