@@ -54,8 +54,13 @@ education:
     date_end: "2021-07-07"
     date_start: "2016-10-01"
     institution: Max-Planck-Institute for Evolutionary Anthropology, Germany & University of Aberdeen, UK
-    summary: |-
-    - Thesis: "Exploring Late Pleistocene intra-and inter-site climate variability and seasonaliy using isotope zooarchaeology"
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - area: MA Prehistoric and Historic Archaeology
     date_end: "2016-09-12"
