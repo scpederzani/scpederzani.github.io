@@ -82,11 +82,13 @@ work:
   company_url: ""
   date_end: "2023-12-31"
   date_start: "2022-02-01"
-  position: Leopoldina Postdoctoral Fellow
+  position: German Academy of Sciences Leopoldina Postdoctoral Fellowship
   summary: |
-    - Migrated infrastructure to a new data center
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Developing a multi-proxy stable isotope approach to demonstrating the climatic preferences of site-use of Late Pleistocene humans
+    - lipid biomarker analyses of archaeological sediments
+    - reconstructing Late Pleistocene climates using n-alkane compound-specific isotope analysis
+    - developing lipid biomarker extraction methods for resin-impregnated sediment blocks
+    - leading of sediment sampling field campaigns
 - company_logo: ""
   company_name: Department of Human Evolution, Max-Planck-Institute for Evolutionary Anthropology, Germany
   company_url: ""
@@ -94,9 +96,11 @@ work:
   date_start: "2020-10-01"
   position: Postdoctoral Researcher
   summary: |
-    - Migrated infrastructure to a new data center
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Reconstructing site specific palaeoclimate and –environment at Pleistocene archaeological sites using isotope geochemistry proxies applied to faunal remains
+    - Running, repairing and maintaining isotope ratio mass spectrometers (Thermo Delta V, Delta XP) and peripherals (TC/EA, Flash EA 1112) as well as directing repairs and maintenance by a technician
+    - Directing workload for two technicians, coordinating and directing activities of student research assistants, regular monitoring of progress
+    - Training of technicians, researchers and students in IRMS use, lab procedures, and adherence to health and safety regulations
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
