@@ -55,13 +55,7 @@ education:
     date_start: "2016-10-01"
     institution: Max-Planck-Institute for Evolutionary Anthropology, Germany & University of Aberdeen, UK
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      Thesis: lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MA Prehistoric and Historic Archaeology
     date_end: "2016-09-12"
     date_start: "2014-10-01"
