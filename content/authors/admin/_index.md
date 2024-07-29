@@ -54,16 +54,22 @@ education:
     date_end: "2021-07-07"
     date_start: "2016-10-01"
     institution: Max-Planck-Institute for Evolutionary Anthropology, Germany & University of Aberdeen, UK
+    summary: |-
+    - Thesis: "Exploring Late Pleistocene intra-and inter-site climate variability and seasonaliy using isotope zooarchaeology"
 
   - area: MA Prehistoric and Historic Archaeology
     date_end: "2016-09-12"
     date_start: "2014-10-01"
     institution: Christian-Albrechts-University Kiel, Germany
+    summary: |-
+    - Thesis: "Effects of Heating and Fat Separation on δ^13^C of Single Fatty Acids in Milk: Potential Uses for the Detection of Pasteurization in Prehistoric Pottery"
 
   - area: BSc Prehistoric and Historic Archaeology (major) & Chemistry (minor)
     date_end: "2010-10-01"
     date_start: "2014-12-02"
     institution: Christian-Albrechts-University Kiel, Germany
+    summary: |-
+    - Thesis: "Herd Mobility in Xiongnu Funerary Contexts Assessed by Stable Isotope Analysis of Sheep Tooth Enamel from Baga Gazaryn Chuluu, Mongolia"
     
 work:
 - company_logo: ""
@@ -96,11 +102,9 @@ work:
   date_start: "2020-10-01"
   position: Postdoctoral Researcher
   summary: |
-    - Reconstructing site specific palaeoclimate and –environment at Pleistocene archaeological sites using isotope geochemistry proxies applied to faunal remains
-    - Running, repairing and maintaining isotope ratio mass spectrometers (Thermo Delta V, Delta XP) and peripherals (TC/EA, Flash EA 1112) as well as directing repairs and maintenance by a technician
-    - Directing workload for two technicians, coordinating and directing activities of student research assistants, regular monitoring of progress
-    - Training of technicians, researchers and students in IRMS use, lab procedures, and adherence to health and safety regulations
-
+    - Exploring the climatic resilience of late Neanderthals and early groups of *Homo sapiens* in Eurasia
+    - Reconstructing site specific palaeoclimate and –environment at Pleistocene archaeological sites using isotope geochemistry proxies (O,C,N,Sr,Zn) applied to faunal remains
+    - Laboratory managment of the light stable isotope mass spectrometry facility including day-to-day managment of three technicians
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,7 +150,7 @@ awards:
     date_end: "2023-12-31"
     date_start: "2022-02-01"
     awarder: German Academy of Sciences Leopoldina
-    icon: leopoldina
+    icon: leopoldina.svg
     summary: |
       "Developing a multi-proxy stable isotope approach to demonstrating the climatic preferences of site-use of Late Pleistocene humans" (77,000 $)
   - title: German National Academic Foundation scholarship
