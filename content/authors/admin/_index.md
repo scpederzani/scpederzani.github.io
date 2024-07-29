@@ -66,15 +66,11 @@ education:
     date_end: "2016-09-12"
     date_start: "2014-10-01"
     institution: Christian-Albrechts-University Kiel, Germany
-    summary: |-
-    - Thesis: "Effects of Heating and Fat Separation on ^13^C of Single Fatty Acids in Milk: Potential Uses for the Detection of Pasteurization in Prehistoric Pottery"
 
   - area: BSc Prehistoric and Historic Archaeology (major) & Chemistry (minor)
     date_end: "2010-10-01"
     date_start: "2014-12-02"
     institution: Christian-Albrechts-University Kiel, Germany
-    summary: |-
-    - Thesis: "Herd Mobility in Xiongnu Funerary Contexts Assessed by Stable Isotope Analysis of Sheep Tooth Enamel from Baga Gazaryn Chuluu, Mongolia"
     
 work:
 - company_logo: ""
