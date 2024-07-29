@@ -74,9 +74,9 @@ work:
   position: Postdoctoral Researcher
   summary: |-
     - StalFire project exploring joint hydroclimate and wildfire histories in California
-    - Bayesian proxy system modeling of karst systems and stalagmite archives
-    - multi-proxy quantitative climate and fire reconstruction
-    - 
+    - Bayesian proxy system modeling of climate and fire proxies in karst systems
+    - quantitative climate and wildfire reconstruction
+    - polycyclic aromatic carbon (PAH) emission and transport modelling
 - company_logo: ""
   company_name: IUBO-AG, Universidad de La Laguna, Tenerife, Spain
   company_url: ""
