@@ -61,7 +61,7 @@ education:
     date_start: "2014-10-01"
     institution: Christian-Albrechts-University Kiel, Germany
     summary: |
-      Thesis: Effects of Heating and Fat Separation on 13C of Single Fatty Acids in Milk: Potential Uses for the Detection of Pasteurization in Prehistoric Pottery
+      Thesis: Effects of Heating and Fat Separation on δ^13^C of Single Fatty Acids in Milk: Potential Uses for the Detection of Pasteurization in Prehistoric Pottery
   - area: BSc Prehistoric and Historic Archaeology (major) & Chemistry (minor)
     date_end: "2010-10-01"
     date_start: "2014-12-02"
