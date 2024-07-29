@@ -79,6 +79,4 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
-        
-<meta name="google-site-verification" content="-4-mvSroMvJE-UVBYpr3bjG-BPYTaXp7An_qqLzXWWc" />
 ---
