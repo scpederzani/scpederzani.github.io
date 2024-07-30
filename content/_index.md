@@ -33,6 +33,7 @@ sections:
     design:
       view: citation
       background:
+        css_class: light
         color: grey
   - block: collection
     id: papers
