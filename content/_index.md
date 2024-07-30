@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -32,6 +32,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      background:
+        css_class: dark
+        color: grey
   - block: collection
     id: papers
     content:
