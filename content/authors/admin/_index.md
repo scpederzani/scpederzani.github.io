@@ -148,7 +148,7 @@ awards:
     date_end: "2023-12-31"
     date_start: "2022-02-01"
     awarder: German Academy of Sciences Leopoldina
-    icon: leopoldina.svg
+    icon: leopoldina
     summary: |
       "Developing a multi-proxy stable isotope approach to demonstrating the climatic preferences of site-use of Late Pleistocene humans" (77,000 $)
   - title: German National Academic Foundation scholarship

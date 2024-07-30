@@ -13,6 +13,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Experience
+  - name: CV
     url: experience/
     weight: 20
