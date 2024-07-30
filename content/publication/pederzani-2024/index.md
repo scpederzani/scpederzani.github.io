@@ -2,7 +2,7 @@
 title: Stable isotopes show Homo sapiens dispersed into cold steppes ~45,000 years
   ago at Ilsenhöhle in Ranis, Germany
 authors:
-- **Sarah Pederzani**
+- Sarah Pederzani
 - Kate Britton
 - Manuel Trost
 - Helen Fewlass
