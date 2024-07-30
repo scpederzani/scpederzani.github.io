@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: emerald
+        color: blue
   - block: collection
     content:
       title: Recent Publications
@@ -34,7 +34,7 @@ sections:
       view: citation
       background:
         css_class: light
-        color: white
+        color: '#C1E5D6'
   - block: collection
     id: papers
     content:
