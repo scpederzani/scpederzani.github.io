@@ -51,21 +51,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-      email: sarah.pederzani@gmail.com
-      address:
-        street: 450 Serra Mall
-        city: 83 Tat Chee Avenue
-        region: Kowloon, Hong Kong
-        postcode: '94305'
-        country: USA
-    design:
-      columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
