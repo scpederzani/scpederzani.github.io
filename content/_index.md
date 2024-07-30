@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: blue
+        color: '#246561'
   - block: collection
     content:
       title: Recent Publications
@@ -34,7 +34,7 @@ sections:
       view: citation
       background:
         css_class: light
-        color: '#C1E5D6'
+        color: '#D5DFC6'
   - block: collection
     id: papers
     content:
@@ -46,6 +46,9 @@ sections:
     design:
       view: article-grid
       columns: 1
+      css_class: dark
+      background:
+        color: '#246561'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
