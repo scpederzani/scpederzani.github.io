@@ -34,7 +34,7 @@ sections:
       view: citation
       background:
         css_class: light
-        color: '#D5DFC6'
+        color: '#FFFFFF'
   - block: collection
     id: papers
     content:
@@ -46,9 +46,9 @@ sections:
     design:
       view: article-grid
       columns: 1
-      css_class: dark
+      css_class: light
       background:
-        color: '#246561'
+        color: '#E7F0F3'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
