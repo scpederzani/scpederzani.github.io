@@ -161,6 +161,13 @@ awards:
 
 ## About Me
 
-I am a palaeoclimate scientist and palaeolithic archaeologist interested in improving the reconstruction of past climate changes and their impacts on human evolutionary processes. In this work I use computational (proxy system modelling), geochemical (stable isotopes) and biomolecular (lipid biomarker) methods. I am currently a postdoctoral researcher at the Department of Geology & Geophysics, University of Utah where I develop a karst proxy system model in the StalFire project investigating hydroclimate change and wildfire histories in Early Holocene and Late Pleistocene California. 
+I am a palaeoclimate scientist pursuing questions around terrestrial climate and wildfire changes, the development of climate resilience and adaptability in human history, and how we can leverage observations of both past climate states and human evolution to face the current climate crisis. In my work I use computational (Bayesian forward modelling/proxy system modelling), geochemical (stable isotopes), and biomolecular (lipid biomarker) methods. 
 
-In previous and ongoing work I apply stable isotope and biomarker analyes to archaeological large mammal remains and sediments to explore how climate change shaped the range expansion of Homo sapiens across the globe and the concurrent disappearance of other hominins such as Neanderthals. 
+I am postdoctoral researcher at the Department of Geology & Geophysics, University of Utah, where I develop Bayesian methods to improve hydroclimate and wildfire reconstructions. As part of the NSF-funded StalFire project my work at U of U uses stalagmite records of hydroclimate change and wildfire histories in Early Holocene and Late Pleistocene California to shed light on the relationship between rainfall patterns and wildfires with important implications for understanding future wildfire and flooding risks. I lead the development of Bayesian forward models of a range of stalagmite proxy systems of past fire activity (PAHs, Levoglucosan) and hydroclimate (C & O isotopes, trace elements, Ca isotopes). 
+
+In previous and ongoing work I explore how humans developed adaptations to changing climates and ultimately became a global species. In this context I use stable isotope and lipid biomarker methods reconstruct the climatic conditions that different human groups faced and which ecological niches they preferred ~130,000--30,000 years ago. Some of my recent research has shown that early Homo sapiens groups spreading into Europe were much more resilient to cold climates than previously thought. Going forward I am exploring the role of fire use in shaping the climate adaptations of past humans and how wildfires and anthropogenic fires became intertwined during human evolutionary history. 
+
+
+
+
+
