@@ -1,6 +1,6 @@
 ---
 title: "Climatic drivers of Neanderthal site occupation"
-date: "2024-07-07T00:00:00Z"
+date: "2022-02-01"
 
 # Summary. An optional shortened abstract.
 summary: The Leopoldina funded project "Developing a multi-proxy stable isotope approach to demonstrating the climatic preferences of site-use of Late Pleistocene humans" uses plant wax biomarkers and faunal stable isotope analysis to detect climatic preferences in Neanderthal site occupation strategies
@@ -13,18 +13,6 @@ tags:
 - Palaeolithic Archaeology
 
 featured: true
-
-links:
-- name: Custom Link
-  url: ''
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
-url_slides: '#'
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
