@@ -32,7 +32,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
@@ -40,9 +40,10 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
     design:
       view: article-grid
+      columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
