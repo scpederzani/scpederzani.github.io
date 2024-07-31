@@ -51,8 +51,14 @@ sections:
     content:
       title: Contact
       subtitle:
+      contact_links:
+        - icon: twitter
+        icon_pack: fab
+        name: Email me
+        link: 'https://twitter.com/Twitter'
       text: |-
-        ✉️ sarah.pederzani@utah.edu
+        ✉️ sarah.pederzani\@utah.edu
+        
         🏢 Department of Geology & Geophysics, 115 South 1460 East, FASB, Salt Lake City, UT-84102
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site

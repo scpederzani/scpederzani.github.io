@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: inbox-array-down
     label: E-mail Me
     url: mailto:sarah.pederzani@utah.edu
   - icon: brands/x
