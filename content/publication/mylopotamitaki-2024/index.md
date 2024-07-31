@@ -58,9 +58,10 @@ abstract: The Middle to Upper Palaeolithic transition in Europe is associated wi
   strengthen the notion of a patchwork of distinct human populations and technocomplexes
   present in Europe during this transitional period.
 tags:
-- Anthropology
+- Human Evolution
 - Archaeology
-- Population genetics
+- Palaeoecology
+featured: true
 links:
 - name: URL
   url: https://www.nature.com/articles/s41586-023-06923-7
