@@ -32,7 +32,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 2
       css_class: dark
   - block: collection
     content:
