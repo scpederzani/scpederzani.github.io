@@ -52,6 +52,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
+      ✉️ sarah.pederzani@utah.edu
+      🏢 Department of Geology & Geophysics, 115 South 1460 East, FASB, Salt Lake City, UT-84102
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
