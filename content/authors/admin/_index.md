@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: inbox-array-down
+  - icon: email
     label: E-mail Me
     url: mailto:sarah.pederzani@utah.edu
   - icon: brands/x
@@ -111,8 +111,8 @@ skills:
     items:
       - name: R Scientific Programming
         description: '10 years of experience with R coding'
-        icon: code-bracket
-      - name: Jags Bayesian Modelling
+        icon: devicon-r-plain
+      - name: Jags & Stan Bayesian Modelling
         description: 'proxy system modelling, hierarchical forward models, joint Bayesian inversion '
         icon: chart-bar
       - name: Analytical Isotope Geochemistry

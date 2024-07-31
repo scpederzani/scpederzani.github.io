@@ -9,7 +9,7 @@ authors:
 - Jeanne Marie Geiling
 - Ana B Marín-Arroyo
 date: '2023-01-01'
-publishDate: '2023-07-07T21:54:18.493391Z'
+publishDate: '2023-07-07'
 publication_types:
 - article-journal
 publication: '*Quaternary Research*'
