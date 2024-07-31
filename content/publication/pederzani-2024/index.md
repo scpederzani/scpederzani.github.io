@@ -31,12 +31,12 @@ authors:
 - Marcel Weiss
 - Jean-Jacques Hublin
 date: '2024-03-01'
-publishDate: '2024-07-13T19:53:39.194530Z'
+publishDate: '2024-01-31T19:53:39.194530Z'
 publication_types:
 - article-journal
 publication: '*Nature Ecology & Evolution*'
 doi: 10.1038/s41559-023-02318-z
-abstract: The spread of Homo sapiens into new habitats across Eurasia ~45,000 years
+abstract: The spread of *Homo sapiens* into new habitats across Eurasia ~45,000 years
   ago and the concurrent disappearance of Neanderthals represents a critical evolutionary
   turnover in our species’ history. ‘Transitional’ technocomplexes, such as the Lincombian–Ranisian–Jerzmanowician
   (LRJ), characterize the European record during this period but their makers and

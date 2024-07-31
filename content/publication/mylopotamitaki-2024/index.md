@@ -35,7 +35,7 @@ authors:
 - Tim Schüler
 - Jean-Jacques Hublin
 date: '2024-02-01'
-publishDate: '2024-07-13T19:53:39.151431Z'
+publishDate: '2024-01-31T19:53:39.151431Z'
 publication_types:
 - article-journal
 publication: '*Nature*'
@@ -43,12 +43,12 @@ doi: 10.1038/s41586-023-06923-7
 abstract: The Middle to Upper Palaeolithic transition in Europe is associated with
   the regional disappearance of Neanderthals and the spread of Homo sapiens. Late
   Neanderthals persisted in western Europe several millennia after the occurrence
-  of H. sapiens in eastern Europe1. Local hybridization between the two groups occurred2,
-  but not on all occasions3. Archaeological evidence also indicates the presence of
+  of H. sapiens in eastern Europe1. Local hybridization between the two groups occurred,
+  but not on all occasions. Archaeological evidence also indicates the presence of
   several technocomplexes during this transition, complicating our understanding and
-  the association of behavioural adaptations with specific hominin groups4. One such
+  the association of behavioural adaptations with specific hominin groups. One such
   technocomplex for which the makers are unknown is the Lincombian–Ranisian–Jerzmanowician
-  (LRJ), which has been described in northwestern and central Europe5–8. Here we present
+  (LRJ), which has been described in northwestern and central Europe. Here we present
   the morphological and proteomic taxonomic identification, mitochondrial DNA analysis
   and direct radiocarbon dating of human remains directly associated with an LRJ assemblage
   at the site Ilsenhöhle in Ranis (Germany). These human remains are among the earliest
