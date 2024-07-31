@@ -33,6 +33,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      css_class: dark
   - block: collection
     content:
       title: Recent Publications
@@ -44,6 +45,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+      css_class: dark
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
