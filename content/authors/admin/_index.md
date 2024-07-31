@@ -141,13 +141,13 @@ awards:
   - title: Irene Levi-Sala CARE Archaeological Foundation Research Grant
     date: "2024-05-01"
     awarder: Irene Levi-Sala CARE Archaeological Foundation
-    icon: 
+    icon: care_foundation
     summary: |
      “Site-specific hydroclimatic and palaeoenvironmental markers at B60, an Upper Paleolithic site in the lower Besor Basin” (5,000 $). Co-PI with Mae Goder-Goldberger
   - title: German Academy of Sciences Leopoldina Postdoctoral Fellowship
     date: "2022-02-01"
     awarder: German Academy of Sciences Leopoldina
-    icon: leopoldina.png
+    icon: leopoldina
     summary: |
       "Developing a multi-proxy stable isotope approach to demonstrating the climatic preferences of site-use of Late Pleistocene humans" (77,000 $)
   - title: German National Academic Foundation scholarship
