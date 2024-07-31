@@ -1,6 +1,7 @@
 ---
 title: Stable isotopes show Homo sapiens dispersed into cold steppes ~45,000 years
   ago at Ilsenhöhle in Ranis, Germany
+featured: true
 authors:
 - Sarah Pederzani
 - Kate Britton
@@ -53,11 +54,14 @@ abstract: The spread of Homo sapiens into new habitats across Eurasia ~45,000 
   cold conditions during many distinct early dispersals into Europe and suggests pronounced
   adaptability.
 tags:
-- Archaeology
 - Palaeoclimate
+- Human Evolution
 - Palaeoecology
 - Stable isotope analysis
+- Archaeology
 links:
 - name: URL
   url: https://www.nature.com/articles/s41559-023-02318-z
+url_code: 'https://osf.io/wunfd/'
+url_dataset: 'https://osf.io/wunfd/'
 ---
