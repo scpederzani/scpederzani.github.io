@@ -52,10 +52,10 @@ sections:
       title: Contact
       subtitle:
       contact_links:
-        - icon: twitter
-        icon_pack: fab
-        name: Email me
-        link: 'https://twitter.com/Twitter'
+       - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/Twitter'
       text: |-
         ✉️ sarah.pederzani\@utah.edu
         
