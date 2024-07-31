@@ -3,7 +3,7 @@ title: "StalFire - Hydroclimate-Wildfire relationships in California"
 date: "2024-07-07T00:00:00Z"
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: StalFire is multi-lab collaborative framework (consortium) established to facilitate research focused on utilizing paleoclimate data archived in stalagmites. The primary goal is to provide new insights into paleo-wildfires, with a specific emphasis on assessing the paleoclimate-wildfire relationship in CA across multiple timescales and under different climate states. As part of this consortium I am developing a Bayesian stalagmite proxy system model targeting both established palaeoclimate proxies and novel biomarker proxies of fire activity.
 
 tags:
 - Proxy System Modelling
