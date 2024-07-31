@@ -46,17 +46,12 @@ sections:
       view: article-grid
       columns: 2
       css_class: dark
-  - block: contact
+  - block: markdown
     id: contact
     content:
-      title: 🏫 Contact
+      title: Contact
       subtitle:
       text: |-
-
-  #   # Contact (add or remove contact options as necessary)
-      email: senkang.forest@gmail.com
-  #     # phone: 888 888 88 88
-  #     # appointment_url: 'https://calendly.com'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
